@@ -1,0 +1,14 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "A library of efficient data structures implemented in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nicholas Dunn",
+  "license": "GPL",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
